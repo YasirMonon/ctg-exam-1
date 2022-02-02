@@ -13,5 +13,6 @@
 * Basic HTML
 * Vanilla CSS
 * bootstrap
+* Media Query
 * Google Crome Developer Tool
 * Fontawesome 6 Beta
