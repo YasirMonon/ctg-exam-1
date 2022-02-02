@@ -42,7 +42,21 @@ body {
     margin-top: 20px;
     margin-bottom: 20px;
     text-decoration: none;
-   
+    height: 40px;
+}
+.text-active {
+    display: block;
+    padding: 5px;
+    text-transform: capitalize;
+    color: #000000;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    height: 40px;
+    border-bottom: 4px #e8bf5d solid;
+}
+.text-2 li :hover {
+    border-bottom: 4px #e8bf5e solid;
 }
 
 .text-3 {
@@ -72,7 +86,6 @@ body {
 
 .text-5 {
     border-left: 2px solid #e8bf5d;
-
 }
 
 .text-6 {
@@ -126,9 +139,7 @@ body {
     width: 255px;
     height: 210px;
     margin-left: 10px;
-    background-color: #e8bf5d;
-    
-    
+    background-color: #e8bf5d;   
 }
 
 .text-9 img {
@@ -175,7 +186,6 @@ body {
 .content-8 .container {
     width: 70%;
     border: 1px solid #dfe1e5;
-   
 }
 
 .text-14 {
@@ -197,14 +207,13 @@ body {
     height: 380px;
     margin-left: -40px;
     background-color: #e8bf5d;
-    
-    
 }
 
 .text-15 img {
-    margin-left: 20px;
-    margin-top: -8px;
+    margin-left: 35px;
+    margin-top: -10px;
 }
+
 /*****--------------------footer-----------------*****/
 .footer {
     background-color: #111;
